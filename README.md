@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingismylastestobession
+- 👋 Hi, I’m @codingismylatestobession
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning UI/UX Design, HTML & CSS and python in the future
 - 💞️ I’m looking to collaborate on projects involving coding/design
